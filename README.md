@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @imeursault
 - 👀 I’m interested in Deep learning and natural language processing
 - 🌱 I’m currently learning Machine Unlearning
+- ✉️ Working email: toimeursault@gmail.com
 - 😄 Pronouns: Carpe dime
 
 <!---
